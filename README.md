@@ -1,4 +1,3 @@
-# Weather-Temperature-Prediction-Using-SimpleRNN
 # 🌤️ Weather Temperature Prediction Using SimpleRNN
 
 ## 📌 Project Overview
